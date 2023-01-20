@@ -1,0 +1,18 @@
+@api = https://api.github.com
+@api_2 = https://api.github.com/repos/facebook/react 
+
+### Info user
+GET {{api}}/user
+Authorization: Bearer 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
+
+### Info issue
+GET {{api_2}}/issues
+Authorization: Bearer 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
+
+### Info labels
+GET {{api_2}}/labels
+Authorization: null
+
+### Info Issue
+GET {{api_2}}/issues/26023
+Authorization: Bearer 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

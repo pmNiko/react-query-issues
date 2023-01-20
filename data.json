@@ -1,0 +1,273 @@
+
+[
+    {
+    "id": 791921801,
+    "node_id": "MDU6TGFiZWw3OTE5MjE4MDE=",
+    "url": "https://api.github.com/repos/facebook/react/labels/%E2%9D%A4%EF%B8%8F",
+    "name": "❤️",
+    "color": "ffffff",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 69105383,
+    "node_id": "MDU6TGFiZWw2OTEwNTM4Mw==",
+    "url": "https://api.github.com/repos/facebook/react/labels/Browser:%20IE",
+    "name": "Browser: IE",
+    "color": "c7def8",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 69105358,
+    "node_id": "MDU6TGFiZWw2OTEwNTM1OA==",
+    "url": "https://api.github.com/repos/facebook/react/labels/Browser:%20Safari",
+    "name": "Browser: Safari",
+    "color": "c7def8",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 196858374,
+    "node_id": "MDU6TGFiZWwxOTY4NTgzNzQ=",
+    "url": "https://api.github.com/repos/facebook/react/labels/CLA%20Signed",
+    "name": "CLA Signed",
+    "color": "e7e7e7",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 71502270,
+    "node_id": "MDU6TGFiZWw3MTUwMjI3MA==",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Build%20Infrastructure",
+    "name": "Component: Build Infrastructure",
+    "color": "f9d0c4",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 739777675,
+    "node_id": "MDU6TGFiZWw3Mzk3Nzc2NzU=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Component%20API",
+    "name": "Component: Component API",
+    "color": "d4c5f9",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 1205087127,
+    "node_id": "MDU6TGFiZWwxMjA1MDg3MTI3",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Concurrent%20Features",
+    "name": "Component: Concurrent Features",
+    "color": "ffccd3",
+    "default": false,
+    "description": ""
+    },
+    {
+    "id": 139653724,
+    "node_id": "MDU6TGFiZWwxMzk2NTM3MjQ=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Core%20Utilities",
+    "name": "Component: Core Utilities",
+    "color": "c5def5",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 710573595,
+    "node_id": "MDU6TGFiZWw3MTA1NzM1OTU=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Developer%20Tools",
+    "name": "Component: Developer Tools",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 127893911,
+    "node_id": "MDU6TGFiZWwxMjc4OTM5MTE=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20DOM",
+    "name": "Component: DOM",
+    "color": "fef2c0",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 1249821345,
+    "node_id": "MDU6TGFiZWwxMjQ5ODIxMzQ1",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20ESLint%20Rules",
+    "name": "Component: ESLint Rules",
+    "color": "f7afdb",
+    "default": false,
+    "description": ""
+    },
+    {
+    "id": 1649755876,
+    "node_id": "MDU6TGFiZWwxNjQ5NzU1ODc2",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Fast%20Refresh",
+    "name": "Component: Fast Refresh",
+    "color": "473bcc",
+    "default": false,
+    "description": ""
+    },
+    {
+    "id": 2192194047,
+    "node_id": "MDU6TGFiZWwyMTkyMTk0MDQ3",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Flight",
+    "name": "Component: Flight",
+    "color": "c4523e",
+    "default": false,
+    "description": ""
+    },
+    {
+    "id": 1109410193,
+    "node_id": "MDU6TGFiZWwxMTA5NDEwMTkz",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Hooks",
+    "name": "Component: Hooks",
+    "color": "c2f27b",
+    "default": false,
+    "description": ""
+    },
+    {
+    "id": 180616330,
+    "node_id": "MDU6TGFiZWwxODA2MTYzMzA=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Optimizing%20Compiler",
+    "name": "Component: Optimizing Compiler",
+    "color": "bfdadc",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 945148471,
+    "node_id": "MDU6TGFiZWw5NDUxNDg0NzE=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20ReactIs",
+    "name": "Component: ReactIs",
+    "color": "1d76db",
+    "default": false,
+    "description": ""
+    },
+    {
+    "id": 739761016,
+    "node_id": "MDU6TGFiZWw3Mzk3NjEwMTY=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Reconciler",
+    "name": "Component: Reconciler",
+    "color": "f9a798",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 1155972012,
+    "node_id": "MDU6TGFiZWwxMTU1OTcyMDEy",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Scheduler",
+    "name": "Component: Scheduler",
+    "color": "9de8f9",
+    "default": false,
+    "description": ""
+    },
+    {
+    "id": 2281766624,
+    "node_id": "MDU6TGFiZWwyMjgxNzY2NjI0",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Scheduling%20Profiler",
+    "name": "Component: Scheduling Profiler",
+    "color": "1dc3d6",
+    "default": false,
+    "description": ""
+    },
+    {
+    "id": 710332294,
+    "node_id": "MDU6TGFiZWw3MTAzMzIyOTQ=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Server%20Rendering",
+    "name": "Component: Server Rendering",
+    "color": "d4c5f9",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 204945357,
+    "node_id": "MDU6TGFiZWwyMDQ5NDUzNTc=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Shallow%20Renderer",
+    "name": "Component: Shallow Renderer",
+    "color": "eb6420",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 1109407645,
+    "node_id": "MDU6TGFiZWwxMTA5NDA3NjQ1",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Suspense",
+    "name": "Component: Suspense",
+    "color": "8ffcd6",
+    "default": false,
+    "description": ""
+    },
+    {
+    "id": 710400704,
+    "node_id": "MDU6TGFiZWw3MTA0MDA3MDQ=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Test%20Renderer",
+    "name": "Component: Test Renderer",
+    "color": "006b75",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 139734344,
+    "node_id": "MDU6TGFiZWwxMzk3MzQzNDQ=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Component:%20Test%20Utils",
+    "name": "Component: Test Utils",
+    "color": "eb6420",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 1757816973,
+    "node_id": "MDU6TGFiZWwxNzU3ODE2OTcz",
+    "url": "https://api.github.com/repos/facebook/react/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+    },
+    {
+    "id": 760751171,
+    "node_id": "MDU6TGFiZWw3NjA3NTExNzE=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Difficulty:%20challenging",
+    "name": "Difficulty: challenging",
+    "color": "f2687c",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 588833528,
+    "node_id": "MDU6TGFiZWw1ODg4MzM1Mjg=",
+    "url": "https://api.github.com/repos/facebook/react/labels/Difficulty:%20medium",
+    "name": "Difficulty: medium",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 52079258,
+    "node_id": "MDU6TGFiZWw1MjA3OTI1OA==",
+    "url": "https://api.github.com/repos/facebook/react/labels/Difficulty:%20starter",
+    "name": "Difficulty: starter",
+    "color": "94ce52",
+    "default": false,
+    "description": null
+    },
+    {
+    "id": 717031390,
+    "node_id": "MDU6TGFiZWw3MTcwMzEzOTA=",
+    "url": "https://api.github.com/repos/facebook/react/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "6ce26a",
+    "default": true,
+    "description": null
+    },
+    {
+    "id": 725156255,
+    "node_id": "MDU6TGFiZWw3MjUxNTYyNTU=",
+    "url": "https://api.github.com/repos/facebook/react/labels/good%20first%20issue%20(taken)",
+    "name": "good first issue (taken)",
+    "color": "b60205",
+    "default": false,
+    "description": null
+    }
+    ]
