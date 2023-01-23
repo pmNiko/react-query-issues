@@ -6,7 +6,7 @@ import { Label } from "../interfaces/label";
 const getLabels = async (): Promise<Label[]> => {
   await sleep(2);
   // Fix error Github Athorization Token
-  const { data } = await githubApi.get<Array<Label>>("/labels", {
+  const { data } = await githubApi.get<Array<Label>>("/labels?per_page=100", {
     headers: {
       Authorization: null,
     },
