@@ -8,7 +8,7 @@ import { State } from "../interfaces";
 export const ListView = () => {
   const [selectedLaabels, setSelectedLaabel] = useState<Array<string>>([]);
   const [issueState, setIssueState] = useState<State>();
-  const { issuesQuery } = useIssues({
+  const { issuesQuery, page, nextPage, prevPage } = useIssues({
     state: issueState,
     labels: selectedLaabels,
   });
@@ -34,6 +34,23 @@ export const ListView = () => {
             onStateChanged={(newState) => setIssueState(newState)}
           />
         )}
+        <div className="d-flex m-2 justify-content-between align-item-center">
+          <button
+            className="btn btn-outline-primary"
+            disabled={issuesQuery.isLoading}
+            onClick={prevPage}
+          >
+            Prev
+          </button>
+          <span>{issuesQuery.isLoading ? "Cargando..." : page}</span>
+          <button
+            className="btn btn-outline-primary"
+            disabled={issuesQuery.isLoading}
+            onClick={nextPage}
+          >
+            Next
+          </button>
+        </div>
       </div>
 
       <div className="col-4">
